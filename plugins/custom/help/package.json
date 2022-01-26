@@ -1,0 +1,11 @@
+{
+    "name": "plugin-help",
+    "version": "0.0.1",
+    "description": "帮助",
+    "main": "index.js",
+    "publishConfig": {
+      "access": "public"
+    },
+    "author": "morinoyuki",
+    "license": "AGPL-3.0"
+  }

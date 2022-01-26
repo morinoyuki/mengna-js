@@ -1,0 +1,19 @@
+{
+  "name": "new-search-image",
+  "version": "1.0.0",
+  "description": "重置搜图插件",
+  "main": "./dist/index.js",
+  "author": "老森",
+  "license": "MIT",
+  "el-bot": {
+    "db": true
+  },
+  "scripts": {
+    "build": "yarn clean && tsc",
+    "clean": "del ./dist/*"
+  },
+  "dependencies": {
+    "@types/node": "^15.12.4",
+    "typescript": "^4.3.4"
+  }
+}

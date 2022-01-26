@@ -1,0 +1,11 @@
+{
+  "name": "el-bot-plugin-kugimiya-voice",
+  "version": "0.0.1",
+  "description": "钉宫发送语音",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "morinoyuki",
+  "license": "AGPL-3.0"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "el-bot-plugin-music",
+  "version": "0.0.1",
+  "description": "点歌",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "morinoyuki",
+  "dependencies": {
+    "simple-netease-cloud-music": "^0.5.0",
+    "string-random": "^0.1.3"
+  },
+  "license": "AGPL-3.0"
+}

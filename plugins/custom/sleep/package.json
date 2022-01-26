@@ -1,0 +1,11 @@
+{
+    "name": "plugin-sleep",
+    "version": "0.0.1",
+    "description": "口球",
+    "main": "index.js",
+    "publishConfig": {
+      "access": "public"
+    },
+    "author": "morinoyuki",
+    "license": "AGPL-3.0"
+  }
